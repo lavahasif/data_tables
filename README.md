@@ -14,7 +14,12 @@
 Online Demo: https://rodydavis.github.io/data_tables/
 
 ## Getting Started
-
+Date:27/sep/22021 it not updated so you can add dependency like this
+```dart 
+  data_tables:
+    git:
+      url: git:github.com/dwpsoft/data_tables.git
+```
 - You can optionally build the listview for mobile with a builder, by default it creates a ExpansionTile with the remaining columns as children
 - The tablet breakpoint can also be set.
 
